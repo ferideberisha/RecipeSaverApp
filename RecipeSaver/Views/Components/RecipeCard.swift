@@ -13,7 +13,6 @@ struct RecipeCard: View {
         self.recipe = recipe
         self._isFavorite = isFavorite
     }
-
     var body: some View {
         NavigationLink(destination: RecipeDetailView(recipe: recipe)) {
             ZStack(alignment: .bottomLeading) {
