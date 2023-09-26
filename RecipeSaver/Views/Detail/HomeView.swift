@@ -53,7 +53,6 @@ struct HomeView: View {
         return recipeBinding
     }
 }
-
 struct HomeView_Previews: PreviewProvider {
     static var previews: some View {
         HomeView()
