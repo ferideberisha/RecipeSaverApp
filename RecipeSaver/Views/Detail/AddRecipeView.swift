@@ -97,7 +97,6 @@ struct AddRecipeView: View {
                                 ingredients = ""
                                 category = ""
                                 
-                                // Show the success alert after clearing the fields
                                 alertMessage = "Recipe saved successfully!"
                                 showAlert = true
                                 
