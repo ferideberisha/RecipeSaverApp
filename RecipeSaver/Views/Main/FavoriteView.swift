@@ -22,7 +22,6 @@ struct FavoriteView: View {
             .navigationBarTitle("Favorites")
         }
     }
-
     private func bindingForRecipe(_ recipe: Food) -> Binding<Bool> {
         let recipeBinding = Binding<Bool>(
             get: { recipe.isFavorite },
