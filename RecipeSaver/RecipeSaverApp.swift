@@ -10,8 +10,6 @@ struct RecipeSaverApp: App {
         WindowGroup {
             TabBar()
                 .environment(\.managedObjectContext, dataController.container.viewContext)
-            
-            
         }
     }
 }
