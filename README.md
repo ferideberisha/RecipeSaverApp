@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-28 at 22 40 30](https://github.com/ferideberisha/RecipeSaverApp/assets/93921511/3ab461a5-e608-4f68-8c41-1ff44f6434fd)# RecipeSaverApp
+RecipeSaverApp
 
 Recipe Saver is a SwiftUI-based iOS application that allows users to save, manage, and discover their favorite recipes. The app utilizes Core Data for data persistence and provides a user-friendly interface for adding, viewing, and organizing recipes.
 
