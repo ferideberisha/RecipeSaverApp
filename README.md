@@ -1,4 +1,4 @@
-#RecipeSaverApp
+# RecipeSaverApp
 
 Recipe Saver is a SwiftUI-based iOS application that allows users to save, manage, and discover their favorite recipes. The app utilizes Core Data for data persistence and provides a user-friendly interface for adding, viewing, and organizing recipes.
 
@@ -45,13 +45,13 @@ git clone https://github.com/ferideberisha/RecipeSaverApp.git
 2. Open the project in Xcode.
 3. Build and run the app on a simulator or a physical iOS device.
 
-###Core Data Setup
+### Core Data Setup
 The app uses Core Data for data storage. Ensure that you've set up the Core Data model correctly in Xcode to match the provided Food entity and attributes.
 
-###Customization
+### Customization
 Feel free to customize the app by adding new features, improving the user interface, or enhancing the functionality. You can also change the app's appearance by modifying the SwiftUI views and styles.
 
-###Contact
+### Contact
 Have questions or suggestions? Feel free to contact us.
 
 
